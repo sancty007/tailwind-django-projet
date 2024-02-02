@@ -1,1 +1,0 @@
-# tailwind-django-projet
